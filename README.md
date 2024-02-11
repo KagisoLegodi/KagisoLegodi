@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Kagiso Legodi
-![Uploading KagisoLegodi.gif…]()
+KagisoLegodi.gif
 
 Welcome to my GitHub profile! I'm passionate about web development and always eager to learn and collaborate on exciting projects.
 
