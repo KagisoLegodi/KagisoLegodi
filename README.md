@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about web development and always ea
 - 👀 I’m interested in Web Development, JavaScript, CSS, and exploring new technologies.
 - 🌱 I’m currently learning: Firebase Realtime Database integration, and advanced CSS techniques.
 - 💞️ I’m looking to collaborate on Open source projects, web development challenges, and innovative ideas.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kagiso-legodi-a29931175)
+- 📫 How to reach me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love creating web applications with a touch of creativity and user interaction!
 
