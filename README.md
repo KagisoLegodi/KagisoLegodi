@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about web development and always eager to learn and collaborate on exciting projects.
 
 ## About Me
-![KagisoLegodi](https://github.com/KagisoLegodi/KagisoLegodi/assets/156658455/5ef100fc-6895-41e3-8fb6-b838e37ced74)
+![Uploading 450882213022201.gif…]()
+
 
 - 👀 I’m interested in Web Development, JavaScript, CSS, and exploring new technologies.
 - 🌱 I’m currently learning: Firebase Realtime Database integration, and advanced CSS techniques.
