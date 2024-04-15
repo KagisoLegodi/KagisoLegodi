@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about web development and always eager to learn and collaborate on exciting projects.
 
 ## About Me
-![Uploading 450882213022201.gif…]()
+![450882213022201](https://github.com/KagisoLegodi/KagisoLegodi/assets/156658455/430cf36d-48e3-4b0b-b8d3-24d49c6dc0fa)
+
 
 
 - 👀 I’m interested in Web Development, JavaScript, CSS, and exploring new technologies.
