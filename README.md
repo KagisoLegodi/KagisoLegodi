@@ -1,5 +1,5 @@
-(.![github-header-image](https://github.com/KagisoLegodi/KagisoLegodi/assets/156658455/85383e0a-c55f-46eb-9968-d5a1f967891e)
-/)
+![github-header-image (1)](https://github.com/KagisoLegodi/KagisoLegodi/assets/156658455/730afce8-198e-48bd-857a-ab54a31f3e3c)
+
 <h1 align="center">Hi 👋, I'm Kagiso Legodi</h1>
 <h3 align="center">A passionate frontend developer from Ga-Luka</h3>
 
