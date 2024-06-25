@@ -1,8 +1,5 @@
 ![github-header-image (1)](https://github.com/KagisoLegodi/KagisoLegodi/assets/156658455/730afce8-198e-48bd-857a-ab54a31f3e3c)
 
-<h1 align="center">Hi 👋, I'm Kagiso Legodi</h1>
-<h3 align="center">A passionate frontend developer from Ga-Luka</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagisolegodi&label=Profile%20views&color=0e75b6&style=flat" alt="kagisolegodi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kagisolegodi" alt="kagisolegodi" /></a> </p>
